@@ -6,7 +6,3 @@ __pycache__/
 # Archivos del sistema operativo
 .DS_Store
 Thumbs.db
-
-# Archivos muy pesados (opcional, el modelo se puede volver a generar)
-outputs/*.joblib
-outputs/*.png
