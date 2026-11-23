@@ -1,0 +1,12 @@
+# Carpetas de Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos muy pesados (opcional, el modelo se puede volver a generar)
+outputs/*.joblib
+outputs/*.png
